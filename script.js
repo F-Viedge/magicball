@@ -14,7 +14,7 @@ const options = [
 'Better not tell you now',
 'Cannot predict now',
 'Concentrate and ask again',
-'Don&apos;t count on it',
+'Don\'t\ count on it',
 'My reply is no',
 'My sources say no',
 'Outlook not so good',
